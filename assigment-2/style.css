@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #6B5ACD;
+    font-family: sans-serif ;
+    text-decoration: underline;
+}
+
+.purple-box {
+font-family: sans-serif;
+text-align: left;
+background-color: #6B5ACD;
+margin-right: auto;    
+margin-left: auto;
+width:70%;
+padding:3px;    
+border:2px solid #44359B;
+color: white;
+}
+
+.center {
+    text-align: center;
+} 
+.thank {
+    color: #06B22A;
+    text-transform: capitalize;
+    font-size:40px;
+    text-decoration: none;
+}
+.go-back {
+    font-size:40px;
+}
+.form-submitted {
+    color: #6B5ACD;
+    font-size:34px;
+}
+.buttons {
+    text-decoration: none;
+    color:black;
+    background:#E0E0E0;
+    padding:5px 10px;
+    border-radius:3px;
+    margin-right:10px;
+}
+.table2 td {
+    padding-bottom: 5px !important;
+}
+.purple-box td {
+    padding-bottom:20px;
+}
+
